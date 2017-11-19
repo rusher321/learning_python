@@ -8,4 +8,3 @@
 ### please choose the python2.7
 ### just install it freely,don't worry,it is so easy
 ### last just a try
-![miner](00.material/photo.jpg)
