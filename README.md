@@ -1,5 +1,5 @@
-# Miner_learning_python
-*This project mainly help miner to learn  python  quickly*
+# learning_python
+*This project mainly  to learn  python  quickly*
 ***
 ### Here hava a blog, you can learn how to install python
 [教程](http://blog.csdn.net/dq_dm/article/details/47065323)
